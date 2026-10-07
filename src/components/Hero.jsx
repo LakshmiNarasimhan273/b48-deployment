@@ -14,7 +14,7 @@ export default function Hero() {
             <h1 className="display-3 fw-bold nova-heading mb-4">
               Build better.
               <br />
-              Move faster.
+              Move smoother.
             </h1>
             <p className="lead text-secondary mb-4 mx-auto mx-lg-0 nova-lead">
               A simple platform that helps teams work smarter and achieve more.
